@@ -5,9 +5,9 @@
 </p>
 <div align="center">
   
-💬 Graduando em ciência da computação.
+💬 Graduando em Ciência da Computação.
 
-🔭 Desenvolvedor Back-end e atualmente estudo Java e o framework Spring Boot
+🔭 Desenvolvedor Back-end, atualmente estudando Java e o framework Spring Boot.
 
 😄 Pronomes: Ele/Dele
 </div>
